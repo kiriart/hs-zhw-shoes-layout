@@ -49,11 +49,3 @@
 .clearfix {
   overflow: auto;
 }
-
-.col-container {
-  display: table;
-}
-
-.tcell {
-  display: table-cell;
-}
